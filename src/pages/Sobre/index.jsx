@@ -15,7 +15,7 @@ const Sobre = () => {
       </div>
 
       <div className={styles.containerSobre} >
-          <h1 className={styles.nomeCompleto}>Kelly Emilly</h1>
+          <h1 className={styles.nomeCompleto}>Aisha Brito</h1>
           <h2 className={styles.profissao}>Estudante</h2>
           <p className={styles.sobreMim}>
               Mussum Ipsum, cacilds vidis litro abertis. Suco de cevadiss deixa as pessoas mais interessantis. 
