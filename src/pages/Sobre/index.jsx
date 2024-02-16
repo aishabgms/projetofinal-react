@@ -18,9 +18,9 @@ const Sobre = () => {
           <h1 className={styles.nomeCompleto}>Aisha Brito</h1>
           <h2 className={styles.profissao}>Estudante</h2>
           <p className={styles.sobreMim}>
-              Mussum Ipsum, cacilds vidis litro abertis. Suco de cevadiss deixa as pessoas mais interessantis. 
-              Paisis, filhis, espiritis santis. Praesent malesuada urna nisi, quis volutpat erat hendrerit non. 
-              Nam vulputate dapibus. Detraxit consequat et quo num tendi nada.
+              Me chamo Aisha, tenho 18 anos e estou em busca de novos conhecimentos para agregar na minha carreira profissional.
+              Por meio deste curso pude ter acesso a aprendizagem sobre github, html e css, javascript e react. Estou muito grata 
+              pela oportunidade que me foi concebida através desse curso.
           </p>
       </div>
 
